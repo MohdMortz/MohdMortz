@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Mohammad Mortezazadeh<br>I'm working Freelance as a Full Stack Developer<br>I'm working with Python language and Django web framework
+I'm Mohammad Mortezazadeh<br>I'm working Freelance as a Back-End Developer<br> Also familiar with Front-end developing.<br> I'm working with Python language and Django web framework
 
 <!--
 ## 🌐 Socials:
